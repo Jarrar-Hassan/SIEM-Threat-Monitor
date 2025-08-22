@@ -112,7 +112,7 @@ def monitor_processes():
 
 # ==================== DASHBOARD UI ====================
 app = Dash(__name__)
-app.title = "System Activity Monitor"
+app.title = "SIEM Threat Monitor"
 
 # Professional color scheme and card style
 card_style = {
